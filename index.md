@@ -2,12 +2,11 @@
 
 안녕하세요.
 
-### Markdown
+### 소속
 
 주식회사 웨스트윤입니다.
 
-```markdown
-Syntax highlighted code block
+저희 회사는
 
 # Header 1
 ## Header 2
@@ -24,7 +23,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+자세한 마크다운 사용법은 아래 링크를 확인해주세요.
 
 ### Jekyll Themes
 
